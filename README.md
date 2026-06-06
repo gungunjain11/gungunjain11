@@ -1,6 +1,6 @@
 # Hi there! I'm Gungun 👋
 
-**Aspiring Software Developer | Sophomore @ IGDTUW | B.Tech CSE**
+**Aspiring Software Developer & Machine Learning Enthusiast | Sophomore @ IGDTUW | B.Tech CSE**
 
 ---
 
